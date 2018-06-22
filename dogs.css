@@ -68,7 +68,7 @@
     body {
       position: relative;
       /*top: 20px;*/
-      background-image: url("https://cdn.pixabay.com/photo/2016/11/22/19/29/depth-of-field-1850206_960_720.jpg");
+      background-image: url("images/field.jpg");
       background-size: cover;
       background-color: #EBF5FB;
       /*background-repeat: no-repeat;*/
