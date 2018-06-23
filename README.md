@@ -1,7 +1,5 @@
 # Dogs On Grass
 
-D.O.G. = Dogs On Grass
-
-This was one of the first and earliest HTML5/CSS3 projects I did. 
+D.O.G. = Dogs On Grass is a photo gallery using HTML and CSS. This was one of the first and earliest projects I did. 
 
 View: http://dogs-on-grass.surge.sh/
