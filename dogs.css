@@ -42,15 +42,13 @@
     }
 
 
-
     .img {
       position: relative;
       left: 3%;
       top: 90px;
-      /*text-align: center;*/
       border:5px solid black;
       width: 300px;
-      height:350px;
+      height:290px;
       float:left;
       margin:10px;
       text-align: center;
@@ -58,7 +56,11 @@
       background-color: #EBF5FB;
       z-index: 1;
       font-family: 'Quicksand', sans-serif;
+      /*margin-bottom: 3%;*/
+      /*margin-right: 4%;*/
     }
+
+
 
     .desc{
       padding:15px;
@@ -67,14 +69,21 @@
 
     body {
       position: relative;
-      /*top: 20px;*/
       background-image: url("images/field.jpg");
       background-size: cover;
       background-color: #EBF5FB;
-      /*background-repeat: no-repeat;*/
       background-attachment: fixed;
-      /*text-align: center;*/
     }
+
+    .gallery {
+      position: absolute;
+      top: 10px;
+      /*height: 50vh;*/
+ /*     padding: -10px;*/
+      /*margin-bottom: 15px;*/
+    }
+
+
 
     footer {
       position: fixed;
@@ -84,7 +93,7 @@
       opacity: 0.7;
       filter: alpha(opacity=70);
       overflow: hidden;
-      height: 60px;
+      height: 40px;
       width: 100%;
       z-index: -1;
       font-family: 'Tajawal', sans-serif;
@@ -128,7 +137,7 @@
         left: 3%;
         border:5px solid black;
         width: 300px;
-        height:350px;
+        height:290px;
         float:left;
         margin:10px;
         text-align: center;
@@ -139,45 +148,6 @@
 
     }
 
-    @media only screen and (max-width: 800px) {
-      .textdogs {
-        font-size: 10px;
-        top: 20%;
-        right: 40%;
-        text-align: center;
-      }
-
-      .grass1 {
-        position: absolute;
-        top: 5%;
-        left: 8%;
-        width: 2px;
-        height:2px;
-      }
-
-      .grass2 {
-        position: absolute;
-        top: 5%;
-        right: 10%;
-      }
-
-      .img {
-        position: relative;
-        left: 30%;
-        border:5px solid black;
-        width: 300px;
-        height:350px;
-        float:left;
-        margin:10px;
-        /*text-align: center;*/
-        background-image: url("images/bg.gif");
-        background-color: #EBF5FB;
-        z-index: 1;
-      }
-
-      footer {
-        display: none;
-      }
 
     @media only screen and (max-width: 500px) {
       .textdogs {
@@ -206,7 +176,7 @@
         left: 10%;
         border:5px solid black;
         width: 300px;
-        height:350px;
+        height:290px;
         float:left;
         margin:10px;
         /*text-align: center;*/
