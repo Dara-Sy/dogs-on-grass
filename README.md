@@ -1,5 +1,5 @@
 # Dogs On Grass
 
-D.O.G. = Dogs On Grass is made with HTML5 and CSS3 in a responsive design using media queries
+D.O.G. = Dogs On Grass is a photo gallery using HTML and CSS flexbox design. This was one of the first and earliest projects I did. 
 
-This is one of the first and earliest HTML/CSS mini projects I did. 
+View: http://dogs-on-grass.surge.sh/
